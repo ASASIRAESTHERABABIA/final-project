@@ -1,0 +1,264 @@
+.parent{
+    width: 100%;
+    height: 100%;
+    }
+    .child1{
+        display: flex;
+        width: 100%;
+        height: 90px;
+        background-color:white;
+        flex-direction: row;
+        top: 800px;
+        padding-left: 30px;
+    }
+    .child2{
+        width: 100%;
+        height: 600px;
+        background-color:white;
+        top:1600px;
+         
+        
+        
+    }
+    
+    .child3{
+        width: 100%;
+        height: 600px;
+        background-color:rgb(244, 248, 248);
+        top: 2500px;
+        padding-left:30px ;
+        padding-top: 5px;
+        
+    }
+    
+    .child4{
+        display:block;
+        width: 100%;
+        height: 270px;
+        background-color: rgb(210, 223, 207);
+        top: 2500px;
+        padding-left:30px ;
+        padding-top: 20px;
+    }
+    .child5{
+        width: 100%;
+        height: 470px;
+        background-color: rgb(169, 204, 163);
+        top: 4000px;
+        padding-left: 30px;
+    }
+    #cafe{
+        font-size: 40px;
+        font-family: 'Cambria';
+        color: rgb(66, 6, 30);
+       }
+       #eye{
+        display: flex;
+        flex-direction: row;
+    }
+    .reer{
+     color: white;
+    text-decoration: none;
+    }
+       #btn{
+        background-color: rgb(119, 5, 5);
+        color: white;
+        width: 100px;
+        height: 60px;
+        border: 0px;
+        position: relative;
+        left: 440px;
+        justify-content: right;
+        border-radius: 30px;
+        top: 15px;
+       }
+       .careers{
+        
+            color: rgb(8, 10, 128);
+            font-size: 60px;
+            margin-left: 10%;
+            padding-right: 40px;
+            font-family: 'Cambria';
+            position:absolute;
+            
+            top: 400px;
+            
+        
+       }
+       
+        .jp{
+            height: 600px;
+            width: 1400px;
+         
+       }
+       
+       .sub{
+        background-color: rgb(1, 12, 34);
+        font-size: 25px;
+        color: white;
+        margin-right: 30px;
+       }
+       #sub{
+        font-size: 20px;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-right: 40px;
+    }
+       .email{
+        font-size: 25px;
+        margin-right: 40px;
+        
+       }
+    .crew{
+     font-size: 30px;
+     font-family: 'Arial';
+     margin-left: 30px;
+     font-weight: bold;
+    }
+    .chance{
+        font-size:25px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        padding: 20px;
+        word-spacing: 10px;
+    }
+    .form{
+        width: 100%;
+    }
+    .scribe{
+        margin-right: 60px;
+    }
+    .ail{
+        
+        margin-right: 40px;
+    }
+    #ail{
+    
+        width: 500px;
+        height: 40px;
+        padding: 12px 20px;
+        margin: 8px;
+        box-sizing: border-box  ;
+    
+         
+    }
+    #crib{
+        font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        margin-right: 60px;
+    }
+    .name{
+        display: flex;
+        
+       }
+    #name{
+           width: 40%;
+           height: 20px;
+           padding: 12px 10px;
+           padding-bottom:20px;
+           margin: 8px;
+           box-sizing: border-box ;
+           
+       }
+       .mail{
+        display: flex ;
+       }
+    #mail{
+           width: 50%;
+           height: 20px;
+           padding: 12px 10px;
+           padding-bottom:20px;
+           margin: 8px;
+           box-sizing: border-box ;
+           
+       }
+       .select{
+        display:flexbox;
+        
+       }
+    #select{
+           width: 40%;
+           height: 20px;
+           padding: 12px 10px;
+           padding-bottom:20px;
+           margin: 8px;
+           box-sizing: border-box ;
+           
+       }
+       .gen{
+        display: flexbox;
+       }
+       .file{
+        display:block;
+       }
+       #file{
+        width: 40%;
+           height: 20px;
+           padding: 12px 10px;
+           padding-bottom:20px;
+           margin: 6px;
+           box-sizing: border-box ;
+       }
+       .staff{
+        display: block;
+        list-style-type: none;
+        text-decoration: none;
+        justify-content: right;
+        position: absolute;
+        top: 1655px;
+        padding: 20px;
+        flex-direction: column;
+        }
+    #staff{
+        font-family: 'cambria';
+        font-size: 30px;
+    }
+    .miu{
+        display: block;
+        list-style-type: none;
+        text-decoration: none;
+        justify-content: right;
+        position: absolute;
+        top: 1650px;
+        left: 60%;
+        flex-direction: column;
+        padding: 20px;
+        }
+    #miu{
+    font-size: 30px;
+    font-family: 'Cambria'
+    }
+    .cons{
+        display: block;
+        list-style-type: none;
+        text-decoration: none;
+        justify-content: right;
+        position: absolute;
+        top: 1650px;
+        left: 30%;
+        flex-direction: column;
+        padding: 20px;
+        }
+        #cons{
+            font-size: 30px;
+            font-family: 'Cambria';
+    
+        }
+        
+    .word{
+        display: block;
+        position: absolute;
+        left:6%;
+        top: 1910px;
+    }
+    .things{
+        display: flex;
+        position: absolute;
+        left:36px;
+        top: 1960px;
+    }
+    .all{
+    display: block;
+    position: absolute;
+    left: 6%;
+    top: 2000px;
+    }
+    

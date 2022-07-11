@@ -1,0 +1,203 @@
+
+.parent{
+    width: 100%;
+    height: 100%;
+    }
+    .child1{
+        display: flex;
+        width: 100%;
+        height: 90px;
+        background-color: white;
+        flex-direction: row;
+        top: 400px;
+        padding-left: 30px;
+        padding: 10px;
+    }
+    .reer{
+        color: white;
+        text-decoration: none;
+        
+       
+       }
+    .child2{
+        width: 100%;
+        height: 550px;
+        background-color:rgb(244, 248, 248);
+        top: 590px;
+        padding-left: 30px;
+        padding: 20px;
+    }
+    .child3{
+        display:block;
+        width: 100%;
+        height: 250px;
+        background-color: rgb(210, 223, 207);
+        top: 1500px;
+        padding-left: 30px;
+        padding: 80px;
+    }
+    .child4{
+        width: 100%;
+        height: 500px;
+        background-color: rgb(169, 204, 163);
+        top: 4000px;
+        padding-left: 30px;
+    }
+    .cafe{
+        font-size: 40px;
+        font-family: 'Cambria';
+        color: rgb(54, 2, 27);
+       }
+      
+    #foo{
+        color: rgb(94, 3, 8);
+        font-size: 30px;
+        margin-left: 30%;
+        
+    }#food{
+        color: rgb(7, 7, 7);
+        font-size: 20px;
+        font-family: 'Times New Roman';
+    }
+    #fob{
+        color: rgb(255, 254, 254);
+        font-size: 30px;
+        margin-left: 30%;
+        font-family: 'Cambria';
+        border: 0px;
+        background-color: rgba(230, 33, 33, 0.507);
+        border-radius: 50px;
+        position: absolute;
+        top: 280px;
+        left: 12%;
+        z-index: 2;
+    }
+    
+
+    
+    #eye{
+        display: flex;
+    }
+       #btn{
+        background-color: rgb(119, 5, 5);
+        color: white;
+        width: 100px;
+        height: 50px;
+        border: 0px;
+        position: relative;
+        justify-content: right;
+        left: 440px;
+        border-radius: 50px; 
+       }
+       #cafe{
+        font-size: 25px;
+        font-family: 'Cambria';
+        color: aliceblue;
+       }
+       .sub{
+        background-color: rgb(1, 12, 34);
+        font-size: 25px;
+        color: white;
+        margin-right: 30px;
+       }
+       #sub{
+        font-size: 20px;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-right: 40px;
+    }
+       .scribe{
+        margin-right: 60px;
+    }
+    .ail{
+        
+        margin-right: 40px;
+    }
+    #ail{
+    
+        width: 500px;
+        height: 40px;
+        padding: 12px 20px;
+        margin: 8px;
+        box-sizing: border-box  ;
+    
+         
+    }
+    #crib{
+        font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        margin-right: 60px;
+    }
+       .email{
+        font-size: 25px;
+        margin-right: 40px;
+    
+       }
+       .staff{
+        display: block;
+        list-style-type: none;
+        text-decoration: none;
+        justify-content: right;
+        position: absolute;
+        top: 955px;
+        padding: 20px;
+        flex-direction: column;
+        }
+    #staff{
+        font-family: 'cambria';
+        font-size: 30px;
+    }
+    .miu{
+        display: block;
+        list-style-type: none;
+        text-decoration: none;
+        justify-content: right;
+        position: absolute;
+        top: 960px;
+        left: 60%;
+        flex-direction: column;
+        padding: 20px;
+        }
+    #miu{
+    font-size: 30px;
+    font-family: 'Cambria'
+    }
+    .cons{
+        display: block;
+        list-style-type: none;
+        text-decoration: none;
+        justify-content: right;
+        position: absolute;
+        top: 960px;
+        left: 30%;
+        flex-direction: column;
+        padding: 20px;
+        }
+        #cons{
+            font-size: 30px;
+            font-family: 'Cambria';
+    
+        }
+        
+    .word{
+        display: block;
+        position: absolute;
+        left:5%;
+        top: 1220px;
+    }
+    .things{
+        display: flex;
+        position: absolute;
+        left:34px;
+        top: 1280px;
+ }
+.all{
+    display: block;
+    position: absolute;
+    left: 5%;
+    top: 1320px;
+}
+.moves{
+    width: 100%;
+    height: 100px;
+    
+}    
